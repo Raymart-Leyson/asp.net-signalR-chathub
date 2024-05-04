@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codes\\asp.net signalR chathub\\SignalRChat\\SignalRChat.csproj": {}
+    "d:\\Codes\\asp.net signalR chathub\\SignalRChat\\SignalRChat.csproj": {}
   },
   "projects": {
-    "D:\\Codes\\asp.net signalR chathub\\SignalRChat\\SignalRChat.csproj": {
+    "d:\\Codes\\asp.net signalR chathub\\SignalRChat\\SignalRChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codes\\asp.net signalR chathub\\SignalRChat\\SignalRChat.csproj",
+        "projectUniqueName": "d:\\Codes\\asp.net signalR chathub\\SignalRChat\\SignalRChat.csproj",
         "projectName": "SignalRChat",
-        "projectPath": "D:\\Codes\\asp.net signalR chathub\\SignalRChat\\SignalRChat.csproj",
+        "projectPath": "d:\\Codes\\asp.net signalR chathub\\SignalRChat\\SignalRChat.csproj",
         "packagesPath": "C:\\Users\\rayma\\.nuget\\packages\\",
-        "outputPath": "D:\\Codes\\asp.net signalR chathub\\SignalRChat\\obj\\",
+        "outputPath": "d:\\Codes\\asp.net signalR chathub\\SignalRChat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rayma\\AppData\\Roaming\\NuGet\\NuGet.Config"
